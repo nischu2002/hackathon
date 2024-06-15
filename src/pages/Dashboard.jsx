@@ -5,6 +5,7 @@ import Graph from "../assets/graph.png";
 import Calendar from "../assets/calendar.png";
 import Dollor from "../assets/dollor.png";
 import Bag from "../assets/bag.png";
+
 import {
   BarChart,
   Bar,
@@ -45,35 +46,6 @@ import {
   );
 }
 
-// function Footer() {
-// 	return (
-// 	  <Box as="footer" bg="white" py={4} mt={8} borderTop="1px solid #E2E8F0">
-// 		<Flex justifyContent="space-between" alignItems="center">
-// 		  <Box>
-// 			<p>Cultivating Efficiency, Tracking Excellence – Your Trusted Inventory Management Partner</p>
-// 		  </Box>
-// 		  <Box>
-// 			<Flex>
-// 			  <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
-// 				<img src="/path/to/facebook-icon.png" alt="Facebook" style={{ marginRight: "8px" }} />
-// 			  </a>
-// 			  <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
-// 				<img src="/path/to/instagram-icon.png" alt="Instagram" style={{ marginRight: "8px" }} />
-// 			  </a>
-// 			  <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
-// 				<img src="/path/to/twitter-icon.png" alt="Twitter" style={{ marginRight: "8px" }} />
-// 			  </a>
-// 			</Flex>
-// 		  </Box>
-// 		</Flex>
-// 		<Flex justifyContent="space-between" alignItems="center" mt={4}>
-// 		  <a href="/privacy-policy">Privacy Policy</a>
-// 		  <span>© 2024 Biz-wizard Inc.</span>
-// 		  <a href="/terms-and-conditions">Terms & Conditions</a>
-// 		</Flex>
-// 	  </Box>
-// 	);
-//   }
 
 
 
